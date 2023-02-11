@@ -26,28 +26,34 @@ h1, h2 , p {
     margin-left: auto;
     margin-right: auto;
     padding: 20px 20px 20px 20px;
+    max-width: 500px;
+}
+
+.established {
+    font-style: italic;
 }
 
 .tea-price {
     width: 25%;
-    background-color: yellow;
+    /* background-color: yellow; */
     text-align: right;
 }
 
 .tea-items p {
     display: inline-block;
+    font-weight: 400;
 }
 
 .tea-flavor, .collections-flavor {
     text-align: left;
     width: 75%;
-    background-color: green;
+    /* background-color: green; */
 }
 
 .tea-price , .collections-price {
     width: 25%;
     text-align: right;
-    background-color: yellow;
+    /* background-color: yellow; */
 }
 
 .collections-price {
