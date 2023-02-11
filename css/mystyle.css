@@ -28,6 +28,11 @@ h2 {
     font-size: 35px;
 }
 
+hr {
+    height: 2px;
+    background-color: rgba(228, 202, 168, 0.404));
+}
+
 .tea-menu {
     background-color: rgba(228, 202, 168, 0.527);
     width: 80%;
