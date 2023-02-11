@@ -20,6 +20,14 @@ h1, h2 , p {
     text-align: center;
 }
 
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
 .tea-menu {
     background-color: rgba(228, 202, 168, 0.527);
     width: 80%;
