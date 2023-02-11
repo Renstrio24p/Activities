@@ -13,8 +13,7 @@ h1, h2 , p {
 }
 
 .tea-menu {
-    background-color: rgb(228,202,168);
-    background-color: aqua;
+    background-color: rgba(228, 202, 168, 0.527);
     width: 80%;
     margin-left: auto;
     margin-right: auto;
