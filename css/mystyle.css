@@ -1,12 +1,11 @@
 
 body {
     text-align: left;
+    background-color: rgb(228,202,168);
 }
 
 h1, h2 , p {
     text-align: center;
 }
 
-.text__align-center {
 
-}
