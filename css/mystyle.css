@@ -8,4 +8,7 @@ h1, h2 , p {
     text-align: center;
 }
 
-
+div {
+    background-color: aqua;
+    width: 300px;
+}
