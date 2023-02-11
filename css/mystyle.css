@@ -30,7 +30,8 @@ h2 {
 
 hr {
     height: 2px;
-    background-color: rgba(228, 202, 168, 0.404));
+    background-color: rgba(228, 202, 168, 0.404);
+    border-color: rgb(44, 43, 41);
 }
 
 .tea-menu {
