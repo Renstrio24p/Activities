@@ -18,3 +18,7 @@ h1, h2 , p {
     margin-left: auto;
     margin-right: auto;
 }
+
+.tea-flavor {
+    text-align: left;
+}
