@@ -1,5 +1,13 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200&display=swap');
+
+* {
+    color: black;
+}
+
 body {
+
+    font-family: 'Open Sans', sans-serif;
     background-image: url(./images/tea-background.jpg);
     /* width: 100vw; */
     /* height: 100vh; */
@@ -19,6 +27,28 @@ h1, h2 , p {
     margin-right: auto;
 }
 
-.tea-flavor {
+.tea-price {
+    width: 25%;
+    background-color: yellow;
+    text-align: right;
+}
+
+.tea-items p {
+    display: inline-block;
+}
+
+.tea-flavor, .collections-flavor {
     text-align: left;
+    width: 75%;
+    background-color: green;
+}
+
+.tea-price , .collections-price {
+    width: 25%;
+    text-align: right;
+    background-color: yellow;
+}
+
+.collections-price {
+    font-weight: 2em;
 }
