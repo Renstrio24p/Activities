@@ -22,6 +22,7 @@ h1, h2 , p {
 
 h1 {
     font-size: 40px;
+    margin: 0;
 }
 
 h2 {
@@ -32,9 +33,22 @@ hr {
     height: 2px;
     background-color: rgba(228, 202, 168, 0.404);
     border-color: rgb(44, 43, 41);
-    -webkit-box-shadow: 3px 11px 18px -6px rgba(0,0,0,0.75);
-    -moz-box-shadow: 3px 11px 18px -6px rgba(0,0,0,0.75);
-    box-shadow: 3px 11px 18px -6px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 3px 11px 18px -6px rgba(0,0,0,0.89);
+    -moz-box-shadow: 3px 11px 18px -6px rgba(0,0,0,0.89);
+    box-shadow: 3px 11px 18px -6px rgba(0,0,0,0.89);
+}
+
+img {
+    height: 40px;
+    width:40px;
+    display: block;
+    margin: auto 5px;
+}
+
+.tea-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .tea-menu {
@@ -44,9 +58,9 @@ hr {
     margin-right: auto;
     padding: 20px 20px 20px 20px;
     max-width: 500px;
-    -webkit-box-shadow: 10px 10px 18px -6px rgba(0,0,0,0.75);
-    -moz-box-shadow: 10px 10px 18px -6px rgba(0,0,0,0.75);
-    box-shadow: 10px 10px 18px -6px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 14px 15px 26px -6px rgba(0,0,0,0.96);
+    -moz-box-shadow: 14px 15px 26px -6px rgba(0,0,0,0.96);
+    box-shadow: 14px 15px 26px -6px rgba(0,0,0,0.96);
 }
 
 
